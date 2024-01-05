@@ -20,9 +20,9 @@ The following are the requirements for using your data with this model:
 
 Past :x:
 
-Future :x:
+Future :white_check_mark:
 
-Static :x:
+Static :white_check_mark:
 
 ---
 
