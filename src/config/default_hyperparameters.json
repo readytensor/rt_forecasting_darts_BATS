@@ -1,9 +1,9 @@
 {
-  "use_box_cox": null,
+  "use_box_cox": true,
   "box_cox_lower_bound": 0,
   "box_cox_upper_bound": 1,
-  "use_trend": null,
-  "use_damped_trend": null,
+  "use_trend": true,
+  "use_damped_trend": false,
   "seasonal_periods": "freq",
   "use_arma_errors": true,
   "history_forecast_ratio": 13
