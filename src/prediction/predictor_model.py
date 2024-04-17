@@ -117,7 +117,7 @@ class Forecaster:
 
         for id, series in zip(all_ids, all_series):
             if self.history_length:
-                series = series[-self.history_length :]
+                series = series[-self.history_length:]
             model = self._fit_on_series(history=series, data_schema=data_schema)
             self.models[id] = model
 
